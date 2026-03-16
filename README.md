@@ -14,3 +14,18 @@ Install your custom system inside the USB filesystem.
 
 ---------------------------------------------------
 
+
+Final Workflow
+Insert USB
+      ↓
+Boot portable OS
+      ↓
+System auto-starts
+      ↓
+User works in isolated session
+      ↓
+USB removed
+      ↓
+RAM cleared
+      ↓
+Session destroyed
