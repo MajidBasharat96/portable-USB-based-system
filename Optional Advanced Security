@@ -1,0 +1,20 @@
+For a professional secure implementation, add:
+
+1. Encrypted USB
+
+Use:
+LUKS encryption
+
+2. Secure login
+
+Add:
+OTP authentication
+hardware key
+Example:
+YubiKey
+
+3. RAM database
+
+Use:
+Redis
+SQLite memory mode
