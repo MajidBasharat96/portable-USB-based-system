@@ -1,0 +1,22 @@
+Live Linux
+Docker
+Redis (RAM DB)
+React UI
+Python API
+
+-----------------------------
+
+Final Workflow
+Insert USB
+      ↓
+Boot portable OS
+      ↓
+System auto-starts
+      ↓
+User works in isolated session
+      ↓
+USB removed
+      ↓
+RAM cleared
+      ↓
+Session destroyed
